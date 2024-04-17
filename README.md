@@ -111,5 +111,7 @@ Epochs: 25 Learning rate: 0.001 batch_size: 0.001 rmse: 23.95020978672473
 Epochs: 25 Learning rate: 0.01 batch_size: 0.01 rmse: 23.9834257751903
 Epochs: 25 Learning rate: 0.1 batch_size: 0.1 rmse: 24.21431789082585
 
-It seems simply changing the parameters does not result in large improvements in RMSE. 
+It seems simply changing the parameters does not result in large improvements in RMSE.  
+
+WIP
 
